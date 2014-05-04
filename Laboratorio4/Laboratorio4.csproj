@@ -21,14 +21,12 @@
     <Content Include="dev1\libs\three.min.js" />
     <Content Include="dev1\ts\geometry\altair.js" />
     <Content Include="dev1\ts\geometry\grass.js" />
-    <Content Include="dev1\ts\image\color.png" />
-    <Content Include="dev1\ts\image\crate.jpg" />
-    <Content Include="dev1\ts\image\mariosheet.png" />
-    <Content Include="dev1\ts\image\texture0.png" />
+    <Content Include="dev1\ts\geometry\rock.js" />
     <Content Include="dev1\ts\textures\crate.jpg" />
     <Content Include="dev1\ts\textures\grass.jpg" />
     <Content Include="dev1\ts\textures\green-grass.jpg" />
     <Content Include="dev1\ts\textures\ground.jpg" />
+    <Content Include="dev1\ts\textures\rock.jpg" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
